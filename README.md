@@ -4,8 +4,12 @@ The Barangay Health Center is a community and patient-directed organization. Whe
 Members - Jhon Joseph Parchaso ,
           Rixielie Marie Potot
 
-To Run this project, Download the zip file BHC-Systems.zip and install the modules by typing this to the terminal:
+To Run this project, Download the zip file BHC-Systems.zip and install the modules by typing this command to the terminal
+``
 npm install
+``
 After installing the modules, Type: 
-npm start 
+``
+npm start
+``
 to run the project. Godbless😁
